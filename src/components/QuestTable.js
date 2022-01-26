@@ -22,7 +22,7 @@ export default function QuestTable() {
                 Header: 'Quest',
                 id: 'label',
                 accessor: 'label',
-                width: 500,
+                width: 400,
                 Cell: QuestCell,
             },
             {
@@ -52,7 +52,7 @@ export default function QuestTable() {
                 Header: 'Series',
                 id: 'series',
                 accessor: 'series',
-                width: 250,
+                width: 176,
                 sortType: (a, b) => {
                     const labelA = a.values.series ? a.values.series.label : 'zzz';
                     const labelB = b.values.series ? b.values.series.label : 'zzz';
