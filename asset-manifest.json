@@ -1,25 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.da80dfb9.chunk.css",
-    "main.js": "/static/js/main.d4a0936a.chunk.js",
-    "main.js.map": "/static/js/main.d4a0936a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6b7292c0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6b7292c0.js.map",
-    "static/css/2.1b566f7f.chunk.css": "/static/css/2.1b566f7f.chunk.css",
-    "static/js/2.ec3c658a.chunk.js": "/static/js/2.ec3c658a.chunk.js",
-    "static/js/2.ec3c658a.chunk.js.map": "/static/js/2.ec3c658a.chunk.js.map",
+    "main.css": "/static/css/main.17dec04d.css",
+    "main.js": "/static/js/main.39f48211.js",
+    "static/media/runelite-icon.svg": "/static/media/runelite-icon.6dd141c866b21db62c93.svg",
     "index.html": "/index.html",
-    "precache-manifest.bba6621a3d8fb24660c25581060e5832.js": "/precache-manifest.bba6621a3d8fb24660c25581060e5832.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.1b566f7f.chunk.css.map": "/static/css/2.1b566f7f.chunk.css.map",
-    "static/css/main.da80dfb9.chunk.css.map": "/static/css/main.da80dfb9.chunk.css.map",
-    "static/js/2.ec3c658a.chunk.js.LICENSE.txt": "/static/js/2.ec3c658a.chunk.js.LICENSE.txt"
+    "main.17dec04d.css.map": "/static/css/main.17dec04d.css.map",
+    "main.39f48211.js.map": "/static/js/main.39f48211.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b7292c0.js",
-    "static/css/2.1b566f7f.chunk.css",
-    "static/js/2.ec3c658a.chunk.js",
-    "static/css/main.da80dfb9.chunk.css",
-    "static/js/main.d4a0936a.chunk.js"
+    "static/css/main.17dec04d.css",
+    "static/js/main.39f48211.js"
   ]
 }
